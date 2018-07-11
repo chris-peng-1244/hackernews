@@ -1,0 +1,11 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chris-peng-1244/hackernews.git",
+  "author": "ChrisPeng <pengchi1244@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.14.12"
+  }
+}
